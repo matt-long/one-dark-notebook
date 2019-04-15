@@ -69,7 +69,7 @@ atom-one-dark-gray : #3E4451
 
 .CodeMirror pre, .CodeMirror-dialog, .CodeMirror-dialog .CodeMirror-search-field, .terminal-app .terminal {
     font-family: var(--main-font-family);
-    font-size: 12pt;
+    font-size: 14pt;
 }
 
 .terminal-app .terminal {
